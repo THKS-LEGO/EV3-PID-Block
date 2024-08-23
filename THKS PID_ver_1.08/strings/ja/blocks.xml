@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<EditorStrings>
+  <PolyGroups ModuleName="THKS calculater">
+	<PolyGroup Name="THKS PID calculater" DisplayName="THKS PID calculater" DisplayNamePrefix="THKS calculater">
+      <Parameter Name="Input" DisplayName="Input" >
+        <Description><![CDATA[<p></p>]]></Description>
+      </Parameter>
+      <Parameter Name="Output" DisplayName="Output">
+        <Description><![CDATA[<p></p>]]></Description>
+      </Parameter>
+      <Parameter Name="Channel" DisplayName="Channel">
+        <Description><![CDATA[<p></p>]]></Description>
+      </Parameter>
+      <Parameter Name="kp" DisplayName="kp">
+        <Description><![CDATA[<p></p>]]></Description>
+      </Parameter>
+      <Parameter Name="ki" DisplayName="ki">
+        <Description><![CDATA[<p></p>]]></Description>
+      </Parameter>
+      <Parameter Name="kd" DisplayName="kd">
+        <Description><![CDATA[<p></p>]]></Description>
+      </Parameter>
+      <Parameter Name="I_reset" DisplayName="I_reset">
+        <Description><![CDATA[<p></p>]]></Description>
+      </Parameter>
+      <Block Mode="config" DisplayName="config">
+        <Description><![CDATA[<p></p>]]></Description>
+      </Block>
+      <Block Mode="main" DisplayName="main">
+        <Description><![CDATA[<p></p>]]></Description>
+      </Block>
+      <Block Mode="reset" DisplayName="reset">
+        <Description><![CDATA[<p></p>]]></Description>
+      </Block>
+    </PolyGroup>
+  </PolyGroups>
+</EditorStrings>
